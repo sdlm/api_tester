@@ -13,5 +13,4 @@ pytest
 # ToDo
 - DummyCache
 - auth
-- more domains
-- environment
+- get environment from env_var
